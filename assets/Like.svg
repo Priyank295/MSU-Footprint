@@ -1,0 +1,18 @@
+<svg width="30" height="31" viewBox="0 0 30 31" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+<filter id="filter0_d_0_188" x="-1" y="0" width="32" height="32" filterUnits="userSpaceOnUse" color-interpolation-filters="sRGB">
+<feFlood flood-opacity="0" result="BackgroundImageFix"/>
+<feColorMatrix in="SourceAlpha" type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 127 0" result="hardAlpha"/>
+<feOffset dy="4"/>
+<feGaussianBlur stdDeviation="2"/>
+<feComposite in2="hardAlpha" operator="out"/>
+<feColorMatrix type="matrix" values="0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0.25 0"/>
+<feBlend mode="normal" in2="BackgroundImageFix" result="effect1_dropShadow_0_188"/>
+<feBlend mode="normal" in="SourceGraphic" in2="effect1_dropShadow_0_188" result="shape"/>
+</filter>
+</defs>
+<g filter="url(#filter0_d_0_188)">
+<path d="M6.58447 12.941L14.2674 21.2113C14.663 21.6372 15.337 21.6372 15.7326 21.2113L23.4155 12.941C25.5282 10.6669 25.5282 6.97976 23.4155 4.70561C21.3029 2.43146 17.8777 2.43146 15.765 4.70561L15.7326 4.74049C15.337 5.16635 14.663 5.16635 14.2674 4.74049L14.235 4.70561C12.1223 2.43146 8.69709 2.43146 6.58447 4.70561C4.47184 6.97976 4.47184 10.6669 6.58447 12.941Z" stroke="black" stroke-width="2"/>
+</g>
+
+</svg>
